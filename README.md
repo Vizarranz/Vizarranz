@@ -26,6 +26,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZkaGNkcW80am0wMmp0aGh5cGRrYTlraGFtaXo0OHIyb2xiY2Z6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
+
 <p align="left">Databases</p>
 
 ###
@@ -94,9 +98,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZkaGNkcW80am0wMmp0aGh5cGRrYTlraGFtaXo0OHIyb2xiY2Z6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
 
 <p align="left">In just a few months I will finish my studies in fullstack web application development. I try to learn whenever I have some time, independently from my higher education studies, I am also part of the Málaga 42 project as a student.</p>
 
