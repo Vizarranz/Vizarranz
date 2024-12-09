@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Languages</p>
+<p align="left">Languages:</p>
 
 ###
 
@@ -21,7 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
@@ -30,7 +29,7 @@
 
 ###
 
-<p align="left">Databases</p>
+<p align="left">Databases:</p>
 
 ###
 
@@ -44,7 +43,7 @@
 
 ###
 
-<p align="left">Frameworks</p>
+<p align="left">Frameworks:</p>
 
 ###
 
@@ -58,11 +57,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">IDE</p>
+<p align="left">IDE:</p>
 
 ###
 
@@ -76,7 +71,7 @@
 
 ###
 
-<p align="left">Others</p>
+<p align="left">Others:</p>
 
 ###
 
@@ -87,7 +82,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
