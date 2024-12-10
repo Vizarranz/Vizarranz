@@ -98,6 +98,13 @@
 
 ###
 
+# 📊 Estadísticas:
+![](https://github-readme-stats.vercel.app/api?username=Vizarranz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizarranz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vizarranz&theme=tokyonight&hide_border=false)
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vizarranz/count.svg?"  />
 </div>
